@@ -1,0 +1,16 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "es. node hello word",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch helloboolean.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-hello-world"
+  },
+  "author": "alessio macrì",
+  "license": "ISC"
+}
